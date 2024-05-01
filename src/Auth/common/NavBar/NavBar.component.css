@@ -1,0 +1,20 @@
+.NavBar{
+    height: 40px;
+    background-color: teal;
+}
+
+.NavList{
+    list-style-type: none;
+    position: relative;
+    left: 120px;
+}
+.NavItem{
+    float: left;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.NavItem:hover{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
